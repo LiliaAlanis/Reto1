@@ -1,2 +1,3 @@
 # Reto1
-¿Cómo concientizar a los encargados de las tareas del hogar sobre el reciclaje del agua que usan las lavadoras automáticas?
+
+¿Cómo motivar a estudiantes de Ciencias Físico Matemáticas de la UANL frente a problemas de visualización e intuición geométrica en cursos de matemática teórica?
